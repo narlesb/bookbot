@@ -1,2 +1,1 @@
 # bookbot
-bootbot project bootdev
